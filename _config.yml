@@ -97,3 +97,5 @@ color_scheme: nil
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+
+theme: jekyll-theme-minimal
