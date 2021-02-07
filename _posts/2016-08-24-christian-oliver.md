@@ -3,7 +3,7 @@ date: 2016-08-24T07:20:00-05:00
 permalink: /6-christian_oliver
 title: Christian Oliver
 layout: post
-parent: Temporada 1 (2016)
+parent: Temporada 1
 nav_order: 6
 ---
 
