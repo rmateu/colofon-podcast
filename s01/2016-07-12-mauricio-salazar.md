@@ -3,7 +3,7 @@ date: 2016-07-12 23:40:00-05:00
 title: Mauricio Salazar
 permalink: /temporada_1/1-mauricio-salazar
 layout: post
-parent: Temporada 1
+parent: s01
 nav_order: 1
 ---
 

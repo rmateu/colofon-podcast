@@ -3,7 +3,7 @@ date: 2016-09-22T19:18:00-05:00
 permalink: /7-daniel_prol
 title: Daniel Prol
 layout: post
-parent: Temporada 1
+parent: s01
 nav_order: 7
 ---
 

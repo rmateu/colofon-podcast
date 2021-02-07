@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Temporada 1
+title: s01
 nav_order: 3
 has_children: true
 permalink: /temporada_1

@@ -3,7 +3,7 @@ title: Guillermo Esteves
 date: 2016-08-03T06:20:00-05:00  
 permalink: /4-guillermo_esteves
 layout: post
-parent: Temporada 1
+parent: s01
 nav_order: 4
 ---
 

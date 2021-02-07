@@ -3,7 +3,7 @@ date: 2016-07-27T6:00:00-05:00
 title: Belén Albeza
 permalink: /3-belen_albeza
 layout: post
-parent: Temporada 1
+parent: s01
 nav_order: 3
 ---
 
