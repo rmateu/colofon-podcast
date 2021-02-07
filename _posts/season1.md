@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Temporada 1
 nav_order: 3
 has_children: true
