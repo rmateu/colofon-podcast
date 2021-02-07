@@ -1,9 +1,9 @@
 ---
 layout: default
-title: s01
+title: Temporada 1 (2016)
 nav_order: 3
 has_children: true
-permalink: /temporada/1ra
+permalink: /temporada/1
 ---
 
 # 1ra Temporada (2016)
