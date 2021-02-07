@@ -1,7 +1,7 @@
 ---
 date: 2016-07-12 23:40:00-05:00  
 title: Mauricio Salazar
-permalink: /1-mauricio-salazar
+permalink: /temporada_1/1-mauricio-salazar
 layout: post
 parent: Temporada 1
 nav_order: 1
