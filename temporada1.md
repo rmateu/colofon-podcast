@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: s01
 nav_order: 3
 has_children: true
