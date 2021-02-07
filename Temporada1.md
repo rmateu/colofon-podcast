@@ -3,7 +3,7 @@ layout: home
 title: Temporada 1
 nav_order: 3
 has_children: true
-permalink: /temporada/1
+permalink: /temporada_1
 ---
 
 # 1ra Temporada (2016)
