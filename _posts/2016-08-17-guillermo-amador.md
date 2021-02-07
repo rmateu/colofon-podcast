@@ -3,6 +3,8 @@ date: 2016-08-17T08:20:00-05:00
 permalink: /5-guillermo_amador
 title: Guillermo Amador
 layout: post
+parent: 1ra Temporada
+nav_order: 5
 ---
 
 <img style="float: right;" src="/assets/img/modulor.png">

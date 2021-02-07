@@ -1,12 +1,12 @@
 ---
 layout: default
-title: s01
+title: 1ra Temporada
 nav_order: 3
 has_children: true
-permalink: /temporada/1ra
+permalink: /temporada/1
 ---
 
 # 1ra Temporada (2016)
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+En el verano del 2016, conversamos como las herramientas y formas de trabajo. 
 {: .fs-6 .fw-300 }

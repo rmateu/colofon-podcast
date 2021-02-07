@@ -3,6 +3,8 @@ date: 2016-07-20T06:40:00-05:00
 title: Álvaro Andoin
 permalink: /2-alvaro-andoin
 layout: post
+parent: 1ra Temporada
+nav_order: 2
 ---
 
 <img style="float: right;" src="/assets/img/Alvaro_Andoinbw-2.jpg">
